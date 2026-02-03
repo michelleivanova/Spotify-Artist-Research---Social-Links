@@ -1,0 +1,61 @@
+Chunk 4350-27500 -> dj_part_1c.csv
+[4399/27500] CMH saved 50
+[4449/27500] Chief Priest saved 100
+[4499/27500] Faster Horses saved 150
+[4549/27500] Blu DeTiger saved 200
+[4599/27500] Danny Roma x Manrix saved 250
+[4649/27500] Der Partycrasher saved 300
+[4699/27500] Maya Jane Coles saved 350
+[4749/27500] OGUZ saved 400
+[4799/27500] Palane saved 450
+[4849/27500] Yolka saved 500
+[4899/27500] Bossfight saved 550
+[4949/27500] Ilta saved 600
+[4999/27500] El Gerard saved 650
+[5049/27500] T.Check saved 700
+[5099/27500] dreamcorp. saved 750
+[5149/27500] Meca saved 800
+[5199/27500] Pr0d.k4y saved 850
+[5249/27500] Fat Pat saved 900
+[5299/27500] Ayivah saved 950
+[5349/27500] Goodscandal saved 1000
+[5399/27500] ANDREA CALABRIA saved 1050
+[5449/27500] Lulleaux saved 1100
+[5499/27500] Bloem saved 1150
+[5549/27500] Provoker saved 1200
+[5599/27500] Amon Tobin saved 1250
+Traceback (most recent call last):
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 133, in <module>
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 123, in process
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/core/generic.py", line 3986, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        path_or_buf,
+        ^^^^^^^^^^^^
+    ...<14 lines>...
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ~~~~~~~~~~^
+        self.filepath_or_buffer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        storage_options=self.storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as handles:
+    ^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+PermissionError: [Errno 1] Operation not permitted: 'dj_part_1c.csv'

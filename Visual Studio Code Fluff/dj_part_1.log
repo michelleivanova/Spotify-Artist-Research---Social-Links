@@ -1,0 +1,136 @@
+Chunk 2500-15000 -> dj_part_1.csv
+[2549/15000] Tour-Maubourg saved 50
+[2599/15000] Dheusta saved 100
+[2649/15000] FORGOTTENAGE saved 150
+[2699/15000] Albany saved 200
+[2749/15000] Vansh Vijan saved 250
+[2799/15000] Portwave saved 300
+[2849/15000] Vanic saved 350
+[2899/15000] Srilakshmi Belmannu saved 400
+[2949/15000] KEAN DYSSO saved 450
+[2999/15000] phil's ok. saved 500
+[3049/15000] Margad saved 550
+[3099/15000] Magic Phase saved 600
+[3149/15000] Cappella saved 650
+[3199/15000] Balraj Jagadeesh Kumar saved 700
+[3249/15000] Lndonfox saved 750
+[3299/15000] Carlie Hanson saved 800
+[3349/15000] KVRMVD saved 850
+[3399/15000] Mina Shankha saved 900
+[3449/15000] TOOBOE saved 950
+[3499/15000] Round Table Knights saved 1000
+[3549/15000] Gonzi saved 1050
+[3599/15000] Drics saved 1100
+[3649/15000] Young Fathers saved 1150
+[3699/15000] Etta saved 1200
+[3749/15000] Bo Bruce saved 1250
+[3799/15000] Melanitta Perspicillata saved 1300
+[3849/15000] Gat Decor saved 1350
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 133, in <module>
+    process(start, end, out)
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 106, in process
+    res = sp.search(name)
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 49, in search
+    self._refresh()
+    ~~~~~~~~~~~~~^^
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 36, in _refresh
+    r = requests.post(
+        "https://accounts.spotify.com/api/token",
+    ...<2 lines>...
+        timeout=15,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))

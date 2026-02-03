@@ -1,0 +1,21 @@
+2026-01-31 16:23:49,522 [INFO] Loading rappers_enriched.csv...
+2026-01-31 16:23:49,764 [INFO] Loaded 48902 rows
+2026-01-31 16:23:49,789 [INFO] Rows missing all social data: 25823
+2026-01-31 16:26:54,027 [INFO] [100 processed, 0 enriched] Checking: GDM
+2026-01-31 16:30:09,770 [INFO] [200 processed, 0 enriched] Checking: Les Moray
+2026-01-31 16:33:31,546 [INFO] [300 processed, 0 enriched] Checking: DJ Tons
+2026-01-31 16:36:47,075 [INFO] [400 processed, 0 enriched] Checking: Zeper
+2026-01-31 16:40:02,721 [INFO] [500 processed, 0 enriched] Checking: Cyan_95
+2026-01-31 16:43:15,075 [INFO] [600 processed, 0 enriched] Checking: 99side
+2026-01-31 16:46:33,173 [INFO] [700 processed, 0 enriched] Checking: Makabrobelicoso
+2026-01-31 16:48:48,031 [INFO] Enriched: Lil king -> ['instagram']
+2026-01-31 16:49:46,006 [INFO] [800 processed, 1 enriched] Checking: Richdanfamous
+2026-01-31 16:52:46,962 [INFO] [900 processed, 1 enriched] Checking: M.S.
+2026-01-31 16:55:58,489 [INFO] [1000 processed, 1 enriched] Checking: Kairos
+2026-01-31 16:59:01,494 [INFO] [1100 processed, 1 enriched] Checking: iluvped
+2026-01-31 17:02:15,062 [INFO] [1200 processed, 1 enriched] Checking: Billnass
+2026-01-31 17:05:26,140 [INFO] [1300 processed, 1 enriched] Checking: Simeon Road
+2026-01-31 17:08:41,615 [INFO] [1400 processed, 1 enriched] Checking: Gody Tennor
+2026-01-31 17:11:51,724 [INFO] [1500 processed, 1 enriched] Checking: Dudu.wav
+2026-01-31 17:15:08,301 [INFO] [1600 processed, 1 enriched] Checking: Nina Fiadh
+2026-01-31 17:18:13,279 [INFO] [1700 processed, 1 enriched] Checking: „ÉÄ„Ç§„Çø„ÇØ„Éò„É™„Ç™„Çπ (CV. Â±±Ê†π Á∂∫)

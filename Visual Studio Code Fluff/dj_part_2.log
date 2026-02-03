@@ -1,0 +1,108 @@
+Chunk 15000-27500 -> dj_part_2.csv
+[15049/27500] V.Underground saved 50
+[15099/27500] Unworn saved 100
+[15149/27500] Charlz saved 150
+[15199/27500] h√©lix saved 200
+[15249/27500] TOB!AS saved 250
+[15299/27500] LeBrock saved 300
+[15349/27500] nomar.wav saved 350
+[15399/27500] Younger Brother saved 400
+[15449/27500] Sire Jonah saved 450
+[15499/27500] Trisha Paytas saved 500
+[15549/27500] Nina Young saved 550
+[15599/27500] Adam S Donatz saved 600
+[15649/27500] Funk Fiction saved 650
+[15699/27500] DuoViolins saved 700
+[15749/27500] Mikko Harju saved 750
+[15799/27500] Kris Kiss saved 800
+[15849/27500] Travis Bretzer saved 850
+[15899/27500] E-mulation saved 900
+[15949/27500] Sjoy on the beat saved 950
+[15999/27500] Gin & Tonic saved 1000
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Read timed out. (read timeout=15)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 133, in <module>
+    process(start, end, out)
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 106, in process
+    res = sp.search(name)
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 49, in search
+    self._refresh()
+    ~~~~~~~~~~~~~^^
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 36, in _refresh
+    r = requests.post(
+        "https://accounts.spotify.com/api/token",
+    ...<2 lines>...
+        timeout=15,
+    )
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Read timed out. (read timeout=15)

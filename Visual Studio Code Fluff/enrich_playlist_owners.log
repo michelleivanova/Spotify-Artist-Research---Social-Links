@@ -1,0 +1,126 @@
+2026-02-03 00:58:11,190 [INFO] Loading user_generated_owners_contact_info.csv...
+2026-02-03 00:58:11,195 [INFO] Loaded 38 playlist owners
+2026-02-03 00:58:11,195 [INFO] 
+Starting MusicBrainz enrichment...
+2026-02-03 00:58:11,195 [INFO] This will take time due to 1 request/second rate limit
+
+2026-02-03 00:58:11,195 [INFO] [1/38] Searching: Academy of Country Music
+2026-02-03 00:58:14,768 [INFO]   ✓ Found label: The Academy of Country Music (MBID: 1b1061d1-95e1-4dbc-89d1-885f9f641bd2)
+2026-02-03 00:58:16,228 [INFO]   ✗ No social links found
+2026-02-03 00:58:16,229 [INFO] [2/38] Searching: Alternative Press
+2026-02-03 00:58:18,856 [INFO]   ✓ Found label: Alternative Press (MBID: bab718fa-3f5e-4240-bc1a-0f26d4d6aaae)
+2026-02-03 00:58:20,201 [INFO]   ✓ Updated: website_url
+2026-02-03 00:58:20,201 [INFO] [3/38] Searching: Burberry
+2026-02-03 00:58:21,506 [INFO]   ✓ Found artist: Vance Burberry (MBID: c7084a8c-bc73-4e6a-9f23-80b31ec279b7)
+2026-02-03 00:58:22,837 [INFO]   ✗ No social links found
+2026-02-03 00:58:22,838 [INFO] [4/38] Searching: CMA
+2026-02-03 00:58:24,145 [INFO]   ✓ Found artist: CMA (MBID: 26aae2e5-d8a7-4efc-86de-2e50427dac11)
+2026-02-03 00:58:25,501 [INFO]   ✓ Updated: twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 00:58:25,502 [INFO] [5/38] Searching: Cadence Music
+2026-02-03 00:58:28,116 [INFO]   ✓ Found label: Cadence Music (MBID: 4782fb14-a605-4093-b452-533a9a7bc49f)
+2026-02-03 00:58:29,482 [INFO]   ✓ Updated: twitter_url, twitter_handle, instagram_url, instagram_handle
+2026-02-03 00:58:29,486 [INFO] 
+💾 Saved progress (5/38 processed, 3 found)
+
+2026-02-03 00:58:29,487 [INFO] [6/38] Searching: Carnegie Hall
+2026-02-03 00:58:30,804 [INFO]   ✓ Found artist: The Carnegie Hall Jazz Band (MBID: 58913d16-5000-4b5b-8e9a-8b9c2b6bd7d2)
+2026-02-03 00:58:32,151 [INFO]   ✗ No social links found
+2026-02-03 00:58:32,152 [INFO] [7/38] Searching: DashGo
+2026-02-03 00:58:34,759 [INFO]   ✓ Found label: DashGo (MBID: 71108e0f-3515-49c6-88fd-243bad9aa0cf)
+2026-02-03 00:58:36,142 [INFO]   ✓ Updated: website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 00:58:36,143 [INFO] [8/38] Searching: Dodge
+2026-02-03 00:58:37,471 [INFO]   ✓ Found artist: Dodge (MBID: bb3f51dc-12e4-4632-ae94-26061c22b8df)
+2026-02-03 00:58:38,828 [INFO]   ✗ No social links found
+2026-02-03 00:58:38,829 [INFO] [9/38] Searching: DownBeat Magazine
+2026-02-03 00:58:41,444 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:58:41,444 [INFO] [10/38] Searching: Essence
+2026-02-03 00:58:42,759 [INFO]   ✓ Found artist: ESSENCE (MBID: 4b75b5fa-fdd9-4d83-9587-969636568cae)
+2026-02-03 00:58:44,292 [INFO]   ✓ Updated: facebook_url
+2026-02-03 00:58:44,295 [INFO] 
+💾 Saved progress (10/38 processed, 5 found)
+
+2026-02-03 00:58:44,295 [INFO] [11/38] Searching: HAIM TIME
+2026-02-03 00:58:46,913 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:58:46,914 [INFO] [12/38] Searching: Holiday
+2026-02-03 00:58:48,230 [INFO]   ✓ Found artist: Holiday (MBID: f781b494-8ab0-41ae-b672-846706488dfa)
+2026-02-03 00:58:49,574 [INFO]   ✗ No social links found
+2026-02-03 00:58:49,575 [INFO] [13/38] Searching: Indiemono
+2026-02-03 00:58:52,218 [INFO]   ✓ Found label: Indiemono (MBID: e05b7b47-8692-4dec-a39e-e0bd7133dab8)
+2026-02-03 00:58:53,796 [INFO]   ✓ Updated: website_url
+2026-02-03 00:58:53,797 [INFO] [14/38] Searching: Klangspot Recordings
+2026-02-03 00:58:56,407 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:58:56,408 [INFO] [15/38] Searching: Made to Measure
+2026-02-03 00:58:57,717 [INFO]   ✓ Found artist: Made to Measure (MBID: e1e4c549-7556-4d40-b9ba-fa3be4848d0f)
+2026-02-03 00:58:59,044 [INFO]   ✗ No social links found
+2026-02-03 00:58:59,044 [INFO] [16/38] Searching: NEW POP NOW with Jeff Malone
+2026-02-03 00:59:01,666 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:01,666 [INFO] [17/38] Searching: NOW
+2026-02-03 00:59:02,967 [INFO]   ✓ Found artist: Now (MBID: 51332d98-df1b-4652-a861-f42e9105018c)
+2026-02-03 00:59:04,360 [INFO]   ✓ Updated: website_url
+2026-02-03 00:59:04,361 [INFO] [18/38] Searching: NOW THAT’S WHAT I CALL MUSIC!
+2026-02-03 00:59:06,991 [INFO]   ✓ Found label: Now That’s What I Call Music LLP (MBID: 7672e1c7-2731-4543-80c6-0a432ac39bc4)
+2026-02-03 00:59:08,329 [INFO]   ✗ No social links found
+2026-02-03 00:59:08,330 [INFO] [19/38] Searching: NOW!
+2026-02-03 00:59:09,637 [INFO]   ✓ Found artist: Now, Now (MBID: e3c24e1c-1e43-403b-8407-90c8c4107098)
+2026-02-03 00:59:11,196 [INFO]   ✓ Updated: website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 00:59:11,197 [INFO] [20/38] Searching: Naxos
+2026-02-03 00:59:12,615 [INFO]   ✓ Found artist: Naxos Project (MBID: 7e003c84-9630-40ed-a4e6-3f7b7252d2d9)
+2026-02-03 00:59:14,092 [INFO]   ✗ No social links found
+2026-02-03 00:59:14,093 [INFO] [21/38] Searching: Netflix
+2026-02-03 00:59:15,414 [INFO]   ✓ Found artist: Netflix (MBID: f1827373-bc13-4e6a-a313-13dcd67b0205)
+2026-02-03 00:59:16,731 [INFO]   ✗ No social links found
+2026-02-03 00:59:16,731 [INFO] [22/38] Searching: NewReleaseToday
+2026-02-03 00:59:19,344 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:19,345 [INFO] [23/38] Searching: Noisey Canada
+2026-02-03 00:59:21,971 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:21,973 [INFO] [24/38] Searching: Q Magazine
+2026-02-03 00:59:24,745 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:24,745 [INFO] [25/38] Searching: RL Productions
+2026-02-03 00:59:27,371 [INFO]   ✓ Found label: RL Productions (MBID: 9dc13c60-c9d2-4e37-b3af-70908b2f1a02)
+2026-02-03 00:59:28,719 [INFO]   ✗ No social links found
+2026-02-03 00:59:28,720 [INFO] [26/38] Searching: Rough Trade Records
+2026-02-03 00:59:31,346 [INFO]   ✓ Found label: Rough Trade Records (MBID: 9f59488e-a696-4991-a1f9-48c938528f2f)
+2026-02-03 00:59:32,662 [INFO]   ✗ No social links found
+2026-02-03 00:59:32,663 [INFO] [27/38] Searching: Roundhouse
+2026-02-03 00:59:33,975 [INFO]   ✓ Found artist: Roundhouse (MBID: 1e2609b7-43bf-458d-88f5-16a6316ccb05)
+2026-02-03 00:59:35,359 [INFO]   ✗ No social links found
+2026-02-03 00:59:35,359 [INFO] [28/38] Searching: SFJAZZ
+2026-02-03 00:59:36,672 [INFO]   ✓ Found artist: SFJAZZ Collective (MBID: d27f7bf1-4f00-4186-8c55-d8374c661889)
+2026-02-03 00:59:38,066 [INFO]   ✓ Updated: website_url
+2026-02-03 00:59:38,066 [INFO] [29/38] Searching: Start Making Sense
+2026-02-03 00:59:39,482 [INFO]   ✓ Found artist: Start Making Sense (MBID: 1c108d4b-7965-4626-933a-a2bfc6bcef7d)
+2026-02-03 00:59:40,832 [INFO]   ✓ Updated: website_url, facebook_url, youtube_url
+2026-02-03 00:59:40,833 [INFO] [30/38] Searching: Stones Throw
+2026-02-03 00:59:42,140 [INFO]   ✓ Found artist: Stones Throw (MBID: cbfa7521-67d7-481e-81c7-a8ba880e53d4)
+2026-02-03 00:59:43,490 [INFO]   ✗ No social links found
+2026-02-03 00:59:43,491 [INFO] [31/38] Searching: Strombo
+2026-02-03 00:59:46,243 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:46,244 [INFO] [32/38] Searching: Teen Vogue
+2026-02-03 00:59:48,861 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:48,862 [INFO] [33/38] Searching: Telekom Musik
+2026-02-03 00:59:51,646 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:51,647 [INFO] [34/38] Searching: The Alligator Hour
+2026-02-03 00:59:54,367 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:54,368 [INFO] [35/38] Searching: Themusicden
+2026-02-03 00:59:56,979 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:56,980 [INFO] [36/38] Searching: What The France
+2026-02-03 00:59:59,748 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 00:59:59,748 [INFO] [37/38] Searching: blonded RADIO
+2026-02-03 01:00:02,361 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 01:00:02,362 [INFO] [38/38] Searching: 圣诞特辑
+2026-02-03 01:00:04,979 [INFO]   ✗ Not found in MusicBrainz
+2026-02-03 01:00:05,086 [INFO] ================================================================================
+2026-02-03 01:00:05,086 [INFO] MUSICBRAINZ ENRICHMENT COMPLETE
+2026-02-03 01:00:05,086 [INFO] ================================================================================
+2026-02-03 01:00:05,086 [INFO] Total owners processed:     38
+2026-02-03 01:00:05,086 [INFO] Owners found in MusicBrainz: 10
+2026-02-03 01:00:05,086 [INFO] Owners enriched with data:   10
+2026-02-03 01:00:05,086 [INFO] Success rate:                26.3%
+2026-02-03 01:00:05,086 [INFO] 
+Output files:
+2026-02-03 01:00:05,086 [INFO]   - playlist_owners_verified_contacts.csv
+2026-02-03 01:00:05,086 [INFO]   - playlist_owners_verified_contacts.xlsx
+2026-02-03 01:00:05,086 [INFO] ================================================================================
+2026-02-03 01:00:05,088 [INFO] 
+SAMPLE OF VERIFIED CONTACTS:
+2026-02-03 01:00:05,088 [INFO] ================================================================================

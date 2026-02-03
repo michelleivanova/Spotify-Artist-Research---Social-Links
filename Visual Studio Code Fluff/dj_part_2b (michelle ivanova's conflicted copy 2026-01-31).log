@@ -1,0 +1,77 @@
+Chunk 28800-50000 -> dj_part_2b.csv
+[28849/50000] Niels de Vries saved 50
+[28899/50000] Optical saved 100
+[28949/50000] 10Ten saved 150
+[28999/50000] Ehren Stowers saved 200
+[29049/50000] Will Epstein saved 250
+[29099/50000] Wolfskind saved 300
+[29149/50000] Roel Prezz saved 350
+[29199/50000] Magou saved 400
+[29249/50000] Lucas Costa saved 450
+[29299/50000] Future City saved 500
+[29349/50000] Airwave saved 550
+[29399/50000] The Budchuk saved 600
+[29449/50000] Aritra Banerjee saved 650
+[29499/50000] Moonclipse saved 700
+[29549/50000] Don Costa saved 750
+[29599/50000] SEES00000 saved 800
+[29649/50000] Gabrielle Chiararo saved 850
+[29699/50000] Girl As Wave saved 900
+[29749/50000] Ray Castellano saved 950
+[29799/50000] Former Hero saved 1000
+[29849/50000] LemKuuja saved 1050
+[29899/50000] FRXXMAN saved 1100
+[29949/50000] DJ Honesty saved 1150
+[29999/50000] Sine Soothers saved 1200
+[30049/50000] Steve Lawler saved 1250
+[30099/50000] Onyra saved 1300
+[30149/50000] Hz. saved 1350
+[30199/50000] Tkan saved 1400
+[30249/50000] Freakaholics saved 1450
+[30299/50000] ENZYYYPHONK saved 1500
+[30349/50000] Ricky Remedy saved 1550
+[30399/50000] Serhat √ñzen saved 1600
+[30449/50000] justregular saved 1650
+[30499/50000] Odd Language saved 1700
+[30549/50000] Pool Villa saved 1750
+[30599/50000] Shadowrunner saved 1800
+[30649/50000] Megabeat saved 1850
+[30699/50000] Goro Kumai saved 1900
+[30749/50000] BLACKBOOK saved 1950
+[30799/50000] Grace Grey saved 2000
+[30849/50000] Cyril Pereira saved 2050
+Traceback (most recent call last):
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 133, in <module>
+  File "/Users/larissaivanova/Dropbox/Spotify Artist Research - Maxwell Aden/dj_chunk_runner.py", line 123, in process
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/core/generic.py", line 3986, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        path_or_buf,
+        ^^^^^^^^^^^^
+    ...<14 lines>...
+        storage_options=storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ~~~~~~~~~~^
+        self.filepath_or_buffer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        storage_options=self.storage_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as handles:
+    ^
+  File "/opt/miniconda3/lib/python3.13/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+        handle,
+    ...<3 lines>...
+        newline="",
+    )
+PermissionError: [Errno 1] Operation not permitted: 'dj_part_2b.csv'
