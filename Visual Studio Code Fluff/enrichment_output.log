@@ -2282,3 +2282,196 @@ Starting MusicBrainz enrichment from row 0...
 2026-02-03 14:30:32,999 [INFO]   ✓ Namar Gill -> instagram_url, instagram_handle
 2026-02-03 14:30:43,502 [INFO]   ✓ Scott -> website_url, youtube_url, youtube_channel_id
 2026-02-03 14:30:48,895 [INFO]   ✓ Amanda Collis -> instagram_url, instagram_handle
+2026-02-03 14:30:51,768 [INFO]   ✓ Klamydia -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:31:00,241 [INFO]   ✓ Macross 82-99 -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:31:16,992 [INFO] [5749/50000] Processed: 5750, Found: 3285, Enriched: 2100
+2026-02-03 14:31:20,045 [INFO]   ✓ Sylvan Esso -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:31:22,816 [INFO]   ✓ Ghostnaut -> facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:31:32,618 [INFO]   ✓ ISOKNOCK -> website_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:31:40,825 [INFO]   ✓ The Polish Ambassador -> website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:31:43,777 [INFO]   ✓ LTJ Bukem -> website_url, instagram_url, instagram_handle
+2026-02-03 14:32:00,707 [INFO]   ✓ Iván Torrent -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:32:11,607 [INFO]   ✓ Ankit Balhara -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:32:20,993 [INFO]   ✓ Childsplay -> website_url
+2026-02-03 14:32:33,293 [INFO]   ✓ FRND -> twitter_url, twitter_handle, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:32:45,441 [INFO]   ✓ Ben Gold -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:32:52,383 [INFO]   ✓ Diana Miro -> website_url, facebook_url
+2026-02-03 14:32:55,226 [INFO]   ✓ Picture Me Broken -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:33:13,150 [INFO] [5799/50000] Processed: 5800, Found: 3315, Enriched: 2112
+2026-02-03 14:33:15,867 [INFO]   ✓ glue70 -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:39:41,937 [INFO] 
+💾 Saved progress at row 5799 (5800 processed, 3316 found, 2113 enriched)
+
+2026-02-03 14:39:47,642 [INFO]   ✓ Xuitcasecity -> twitter_url, twitter_handle
+2026-02-03 14:39:50,703 [INFO]   ✓ Harry Hudson -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:39:58,166 [INFO]   ✓ Destroyer -> facebook_url
+2026-02-03 14:40:03,124 [INFO]   ✓ Ian Tosel -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:40:16,875 [INFO]   ✓ Mark -> website_url, twitter_url, twitter_handle, facebook_url, youtube_url, youtube_channel_id
+2026-02-03 14:40:19,640 [INFO]   ✓ Topher -> instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:40:22,453 [INFO]   ✓ PIKA -> twitter_url, twitter_handle
+2026-02-03 14:40:29,206 [INFO]   ✓ Kid Simius -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:40:32,242 [INFO]   ✓ Stabber -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:40:34,995 [INFO]   ✓ Ben Hamilton -> website_url
+2026-02-03 14:40:43,556 [INFO]   ✓ Jamie Berry -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:40:46,276 [INFO]   ✓ Kyle Pearce -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:40:49,212 [INFO]   ✓ Rocky -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:41:07,865 [INFO]   ✓ Azide -> facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, youtube_url, youtube_channel_id
+2026-02-03 14:41:12,994 [INFO]   ✓ Luca Noise -> facebook_url
+2026-02-03 14:41:15,891 [INFO]   ✓ Frosti -> instagram_url, instagram_handle
+2026-02-03 14:41:18,848 [INFO]   ✓ EVEN CUTE -> twitter_url, twitter_handle, instagram_url, instagram_handle, tiktok_url, tiktok_handle
+2026-02-03 14:41:21,897 [INFO]   ✓ Thornato -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:41:25,127 [INFO]   ✓ Codeko -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:41:34,159 [INFO]   ✓ Jaya -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:41:36,963 [INFO]   ✓ Voilaaa -> facebook_url
+2026-02-03 14:41:41,405 [INFO]   ✓ CUT_ -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:41:44,300 [INFO]   ✓ 20syl -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:41:48,486 [INFO]   ✓ Mike Mago -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:41:49,854 [INFO] [5849/50000] Processed: 5850, Found: 3350, Enriched: 2137
+2026-02-03 14:41:54,243 [INFO]   ✓ James Hiraeth -> instagram_url, instagram_handle
+2026-02-03 14:41:59,097 [INFO]   ✓ Buraka Som Sistema -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:42:06,538 [INFO]   ✓ MDK -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:42:09,279 [INFO]   ✓ Jordan Burns -> facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:42:13,072 [INFO]   ✓ Crazibiza -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:42:16,049 [INFO]   ✓ AREA21 -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:42:20,187 [INFO]   ✓ Aimless -> twitter_url, twitter_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:42:22,941 [INFO]   ✓ GLOWINTHEDARK -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:42:25,869 [INFO]   ✓ Aidan Swank -> soundcloud_url, soundcloud_handle
+2026-02-03 14:42:28,777 [INFO]   ✓ Nick Strand -> facebook_url, instagram_url, instagram_handle
+2026-02-03 14:42:33,628 [INFO]   ✓ Marie Davidson -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:42:36,362 [INFO]   ✓ Jack J -> soundcloud_url, soundcloud_handle
+2026-02-03 14:42:42,662 [INFO]   ✓ Tei Shi -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:42:45,403 [INFO]   ✓ Mha Iri -> facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:42:51,098 [INFO]   ✓ Corbin -> twitter_url, twitter_handle, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:43:00,383 [INFO]   ✓ Yusei -> soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:43:04,429 [INFO]   ✓ Dr Donk -> facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:43:14,282 [INFO]   ✓ Clouds -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:43:20,082 [INFO]   ✓ Smith Beats -> youtube_url, youtube_channel_id
+2026-02-03 14:43:27,310 [INFO]   ✓ Unresolved -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:43:35,322 [INFO]   ✓ Angara -> facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:43:38,061 [INFO]   ✓ THAT KIND -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:43:44,331 [INFO]   ✓ The Horrors -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:43:50,510 [INFO]   ✓ Shiny Toy Guns -> soundcloud_url, soundcloud_handle, website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url
+2026-02-03 14:43:58,855 [INFO]   ✓ Disco Fries -> website_url, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:44:03,291 [INFO]   ✓ Ten Walls -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:44:09,949 [INFO]   ✓ lechiffrebeats -> soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:44:14,013 [INFO] [5899/50000] Processed: 5900, Found: 3387, Enriched: 2164
+2026-02-03 14:44:20,773 [INFO]   ✓ Ömer Balık -> youtube_url, youtube_channel_id
+2026-02-03 14:44:28,646 [INFO]   ✓ Tirzah -> website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:44:34,162 [INFO]   ✓ Jaydee -> website_url, youtube_url, youtube_channel_id
+2026-02-03 14:44:39,615 [INFO]   ✓ Lexer -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:44:46,173 [INFO]   ✓ Emanuel Satie -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:44:49,098 [INFO]   ✓ Tocadisco -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:44:51,939 [INFO]   ✓ BSEARL -> instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:44:54,658 [INFO]   ✓ Pokeyz -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:44:57,509 [INFO]   ✓ Jonah Yano -> twitter_url, twitter_handle, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:45:02,952 [INFO]   ✓ Bent -> website_url
+2026-02-03 14:45:05,868 [INFO]   ✓ Sanko -> website_url, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:45:18,136 [INFO]   ✓ offrami -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:45:20,849 [INFO]   ✓ Jarreau Vandal -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:45:23,642 [INFO]   ✓ Saphir -> instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:45:27,482 [INFO]   ✓ Quest Pistols -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url
+2026-02-03 14:45:34,187 [INFO]   ✓ Boogie T -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:45:37,360 [INFO]   ✓ Lolita Jolie -> website_url, twitter_url, twitter_handle, facebook_url, youtube_url
+2026-02-03 14:45:42,740 [INFO]   ✓ Lamar Azul -> soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:45:47,740 [INFO]   ✓ Inja -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:45:59,413 [INFO]   ✓ Datura -> website_url, twitter_url, twitter_handle, instagram_url, instagram_handle
+2026-02-03 14:46:02,793 [INFO]   ✓ Thomas Jack -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:46:06,170 [INFO]   ✓ Icarus -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:46:09,019 [INFO]   ✓ Varien -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:46:15,135 [INFO]   ✓ Harley Bird -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:46:22,238 [INFO]   ✓ DJ Craig Gorman -> instagram_url, instagram_handle
+2026-02-03 14:46:28,214 [INFO]   ✓ Death in Vegas -> website_url, twitter_url, twitter_handle, facebook_url
+2026-02-03 14:46:31,022 [INFO]   ✓ Brooklyn Bounce -> website_url
+2026-02-03 14:46:36,448 [INFO]   ✓ Susana -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:46:39,298 [INFO]   ✓ COLIN -> website_url, twitter_url, twitter_handle
+2026-02-03 14:46:39,302 [INFO] [5949/50000] Processed: 5950, Found: 3432, Enriched: 2193
+2026-02-03 14:46:44,714 [INFO]   ✓ Blu -> facebook_url
+2026-02-03 14:46:47,467 [INFO]   ✓ Just Steezy Things -> instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:46:50,387 [INFO]   ✓ Kaiak -> website_url, facebook_url, instagram_url, instagram_handle, youtube_url
+2026-02-03 14:46:55,891 [INFO]   ✓ Storm Queen -> twitter_url, twitter_handle
+2026-02-03 14:47:00,063 [INFO]   ✓ Kompany -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:47:05,641 [INFO]   ✓ Xriz -> twitter_url, twitter_handle, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:47:08,421 [INFO]   ✓ Oskar Schuster -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:47:11,314 [INFO]   ✓ DESI TRILL -> website_url
+2026-02-03 14:47:14,033 [INFO]   ✓ Horse Jumper of Love -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:47:18,229 [INFO]   ✓ Mauricio Cury -> website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:47:20,990 [INFO]   ✓ Hyzteria -> instagram_url, instagram_handle
+2026-02-03 14:47:29,654 [INFO]   ✓ Major Conspiracy -> facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:47:35,320 [INFO]   ✓ Solid Base -> website_url
+2026-02-03 14:47:42,961 [INFO]   ✓ David Solomon -> website_url
+2026-02-03 14:47:45,955 [INFO]   ✓ Shadow Child -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:47:48,780 [INFO]   ✓ Liberty X -> website_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:47:51,622 [INFO]   ✓ Frederico Morales -> youtube_url, youtube_channel_id
+2026-02-03 14:48:05,254 [INFO]   ✓ Junior Simba -> facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:48:08,097 [INFO]   ✓ Aviella -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:48:11,045 [INFO]   ✓ Carlos Cipa -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:48:13,820 [INFO]   ✓ Brave -> website_url, twitter_url, twitter_handle, facebook_url
+2026-02-03 14:48:16,584 [INFO]   ✓ yunè pinku -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:48:19,318 [INFO]   ✓ Monma -> soundcloud_url, soundcloud_handle
+2026-02-03 14:48:39,041 [INFO]   ✓ Ghost Town -> website_url, facebook_url, youtube_url
+2026-02-03 14:48:43,365 [INFO]   ✓ Taylor Torrence -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:48:46,378 [INFO]   ✓ In Love With A Ghost -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:48:49,247 [INFO] [5999/50000] Processed: 6000, Found: 3472, Enriched: 2219
+2026-02-03 14:48:57,643 [INFO]   ✓ Daigo Hanada -> website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:49:00,468 [INFO]   ✓ Lifelike -> website_url, facebook_url
+2026-02-03 14:49:04,283 [INFO]   ✓ ProleteR -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:49:08,037 [INFO]   ✓ Ikebe Shakedown -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:49:20,248 [INFO]   ✓ Atili -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:49:25,764 [INFO]   ✓ BASTL -> instagram_url, instagram_handle
+2026-02-03 14:49:28,620 [INFO]   ✓ Armonica -> soundcloud_url, soundcloud_handle
+2026-02-03 14:49:32,113 [INFO]   ✓ Moji -> website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:49:37,908 [INFO]   ✓ 5l33p -> twitter_url, twitter_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:49:40,988 [INFO]   ✓ jobii -> twitter_url, twitter_handle, instagram_url, instagram_handle
+2026-02-03 14:49:46,120 [INFO]   ✓ Maleigh Zan -> instagram_url, instagram_handle, tiktok_url, tiktok_handle, youtube_url, youtube_channel_id
+2026-02-03 14:49:53,229 [INFO]   ✓ Bacao Rhythm & Steel Band -> website_url, twitter_url, twitter_handle, facebook_url
+2026-02-03 14:49:56,065 [INFO]   ✓ Maul -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:49:58,776 [INFO]   ✓ David Tort -> website_url, twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:50:13,826 [INFO]   ✓ She Is Jules -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:50:16,570 [INFO]   ✓ ALESTI -> facebook_url, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:50:19,542 [INFO]   ✓ Julian Jordan -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:50:22,389 [INFO]   ✓ Tobias Bergson -> instagram_url, instagram_handle
+2026-02-03 14:50:25,634 [INFO]   ✓ Liva K -> soundcloud_url, soundcloud_handle
+2026-02-03 14:50:34,187 [INFO]   ✓ Oskido -> website_url, twitter_url, twitter_handle, facebook_url
+2026-02-03 14:50:45,602 [INFO]   ✓ DJ Furax -> website_url, facebook_url
+2026-02-03 14:50:48,375 [INFO]   ✓ Eliminate -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:50:56,644 [INFO]   ✓ Sterbinszky -> website_url
+2026-02-03 14:50:59,356 [INFO]   ✓ Iraida -> facebook_url, instagram_url, instagram_handle, youtube_url
+2026-02-03 14:51:02,434 [INFO]   ✓ Mellow Fellow -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:51:05,237 [INFO]   ✓ Snavs -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:51:08,004 [INFO]   ✓ Arthur M -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:51:11,073 [INFO]   ✓ James Stefano -> twitter_url, twitter_handle, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:51:11,075 [INFO] [6049/50000] Processed: 6050, Found: 3516, Enriched: 2247
+2026-02-03 14:51:13,769 [INFO]   ✓ Josephine -> twitter_url, twitter_handle, facebook_url
+2026-02-03 14:51:16,592 [INFO]   ✓ The Cancel -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:51:19,375 [INFO]   ✓ Crusy -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:51:26,703 [INFO]   ✓ Youth Lagoon -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:51:29,659 [INFO]   ✓ Mat McHugh -> website_url, facebook_url, youtube_url
+2026-02-03 14:51:32,499 [INFO]   ✓ Deathpact -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, youtube_url, youtube_channel_id
+2026-02-03 14:51:35,342 [INFO]   ✓ Portico Quartet -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:51:42,307 [INFO]   ✓ Matt Ryder -> twitter_url, twitter_handle, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:51:45,044 [INFO]   ✓ Harry Romero -> twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle
+2026-02-03 14:51:47,760 [INFO]   ✓ Klubbheads -> website_url
+2026-02-03 14:51:50,461 [INFO]   ✓ Uxie Kid -> instagram_url, instagram_handle
+2026-02-03 14:51:53,328 [INFO]   ✓ BE.TH -> instagram_url, instagram_handle
+2026-02-03 14:51:57,564 [INFO]   ✓ Hotel Apache -> twitter_url, twitter_handle, facebook_url
+2026-02-03 14:52:00,365 [INFO]   ✓ Shanni -> twitter_url, twitter_handle, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:52:06,265 [INFO]   ✓ Ferraz -> instagram_url, instagram_handle
+2026-02-03 14:52:09,252 [INFO]   ✓ Steve Cole -> website_url
+2026-02-03 14:52:12,073 [INFO]   ✓ Flavien Berger -> facebook_url, soundcloud_url, soundcloud_handle
+2026-02-03 14:52:17,539 [INFO]   ✓ Andrew Spencer -> website_url
+2026-02-03 14:52:23,165 [INFO]   ✓ Clea Vincent -> twitter_url, twitter_handle, facebook_url
+2026-02-03 14:52:25,867 [INFO]   ✓ Craig Duncan -> website_url
+2026-02-03 14:52:28,566 [INFO]   ✓ May -> website_url
+2026-02-03 14:52:31,347 [INFO]   ✓ DR. VODKA -> youtube_url, youtube_channel_id
+2026-02-03 14:52:34,390 [INFO]   ✓ Irma -> twitter_url, twitter_handle, facebook_url, youtube_url
+2026-02-03 14:52:38,739 [INFO]   ✓ KHEMIS -> facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:52:49,884 [INFO]   ✓ Poupie -> facebook_url, instagram_url, instagram_handle, tiktok_url, tiktok_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:52:56,551 [INFO]   ✓ Caballero -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url
+2026-02-03 14:53:02,292 [INFO]   ✓ Shaun Frank -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:53:05,093 [INFO]   ✓ Versus Me -> youtube_url, website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
+2026-02-03 14:53:11,915 [INFO]   ✓ Zola Blood -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:53:17,592 [INFO]   ✓ Marc Almond -> twitter_url, twitter_handle, website_url, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:53:21,267 [INFO]   ✓ Tupperwave -> twitter_url, twitter_handle, facebook_url, soundcloud_url, soundcloud_handle, youtube_url, youtube_channel_id
+2026-02-03 14:53:26,963 [INFO]   ✓ Gina G -> website_url
+2026-02-03 14:53:26,971 [INFO] [6099/50000] Processed: 6100, Found: 3560, Enriched: 2279
+2026-02-03 14:53:29,827 [INFO]   ✓ MYRNE -> website_url, twitter_url, twitter_handle, facebook_url, instagram_url, instagram_handle, soundcloud_url, soundcloud_handle
